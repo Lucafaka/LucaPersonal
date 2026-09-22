@@ -1,2 +1,0 @@
-# LucaPersonal
-Site development
